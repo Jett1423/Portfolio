@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imagesSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imagesSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imagesSrc": "skills/react.png"
+  },
+  {
+    "title": "React Native",
+    "imagesSrc": "skills/reactnative.png"
+  },
+  {
+    "title": "JavaScript",
+    "imagesSrc": "skills/js.png"
+  },
+  {
+    "title": "Flutter",
+    "imagesSrc": "skills/flutter.png"
+  },
+  {
+    "title": "Firebase",
+    "imagesSrc": "skills/firebase.png"
+  },
+  {
+    "title": "PHP",
+    "imagesSrc": "skills/php.png"
+  },
+  {
+    "title": "BootStrap",
+    "imagesSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "RESTful API",
+    "imagesSrc": "skills/rest.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Full-Stack Developer",
+    "title": "General Merchandise E-Commerce Website",
+    "startdate": "2024-1-23",
+    "endDate": "2024-2-14",
+    "description": [
+      "E-commerce platform",
+      "Shopping cart functionality",
+      "User registration",
+      "Product listings",
+      "Order management",
+      "PHP, Bootstrap, MYSQL"
+    ],
+    "imageSrc": "experience/cd.png"
+  },
+  {
+    "role": "Full-Stack Developer",
+    "title": " E-Scooter Rental Website",
+    "startdate": "2024-5-23",
+    "endDate": "2024-7-14",
+    "description": [
+      "Rental Service Website",
+      "Reservations, payments, location tracking",
+      "Booking management, User profiles, Test payment integration",
+      "PHP, Bootstrap, MYSQL"
+    ],
+    "imageSrc": "experience/scooter.png"
+  },
+  {
+    "role": "Full-Stack Developer",
+    "title": "BakeAR (Capstone)",
+    "startdate": "2024-10-23",
+    "endDate": "2025-1-5",
+    "description": [
+      "3-D, Augmented Reality",
+      "Mobile Application",
+      "User registration, Authentication, Forgot password, Map integration, Test payment, Cloud database storage",
+      "RESTful api",
+      "Flutter, Dart, Firebase,"
+    ],
+    "imageSrc": "experience/bake.png"
+  }
+]
